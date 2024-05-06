@@ -1,5 +1,3 @@
-READ ME TEMPLATE 
-
 # Logo Generator 
 
 ## Description
