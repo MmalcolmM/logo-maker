@@ -24,12 +24,13 @@ For assistance cloning the repo follow: https://docs.github.com/articles/clonin
 
 ## Usage
 
-Below is a screenshot of how the app is intended to be used using 
+Below is a screenshot and video of how the app is intended to be used using 
 ```md
  node index.js 
 ```
 
 ![logo maker screenshot](./assets/images/Screenshot%202024-05-05%20at%205.28.41 PM.png)
+https://drive.google.com/file/d/1VzdU36t7gqP5Dbb_9jja-FcKjAn7Fvxc/view
 
 
 
